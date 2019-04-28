@@ -43,8 +43,8 @@
 * https://www.jovo.tech/tutorials/alexa-login-with-amazon-email
 * https://www.jovo.tech/tutorials/alexa-login-with-amazon-email#enabling-account-linking-in-the-alexa-developer-console
 * https://medium.com/@nils.backe/how-to-use-the-customer-profile-api-in-amazon-alexa-skills-671773c672f6
-* 
-* 
+* https://www.qed42.com/blog/alexa-account-linking
+* https://www.bignerdranch.com/blog/developing-alexa-skills-locally-with-nodejs-account-linking-using-oauth/
 * 
 * 
 * 

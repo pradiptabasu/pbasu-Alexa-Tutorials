@@ -56,3 +56,24 @@
 * 
 * 
 
+
+# Alexa Reminder
+* https://developer.amazon.com/docs/smapi/alexa-reminders-guidelines-for-usage.html
+* https://developer.amazon.com/docs/custom-skills/voice-design-best-practices-legacy.html
+* https://voicebot.ai/2018/12/04/amazons-more-than-doubles-audio-clip-limit-for-alexa-developers-opens-up-new-use-cases/
+* https://developer.amazon.com/docs/custom-skills/handle-requests-sent-by-alexa.html
+* http://www.independent-software.com/coding-an-amazon-alexa-skill-tips-and-tricks-for-game-development.html
+* https://www.digitaltrends.com/mobile/how-to-use-alexa-on-your-android-phone/
+* https://www.techrepublic.com/article/how-to-become-an-alexa-developer-the-smart-persons-guide/
+* https://www.lifewire.com/how-to-set-alexa-reminders-4174246
+* https://developer.amazon.com/blogs/alexa/post/546ab5a1-1d1a-49c2-85a5-92ada3e6e907/best-practices-for-scaling-your-alexa-skill-using-amazon-web-services
+* https://developer.amazon.com/docs/echo-button-skills/keep-session-open.html
+* https://developer.amazon.com/docs/custom-skills/send-the-user-a-progressive-response.html
+* https://stackoverflow.com/questions/36368519/how-long-can-i-have-my-aws-lamba-function-hold-before-returning-for-alexaamazon
+* 
+* 
+* 
+* 
+* 
+* 
+

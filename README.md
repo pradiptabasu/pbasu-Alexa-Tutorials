@@ -66,7 +66,6 @@
 * 
 
 
-
 # Alexa Samples
 * https://github.com/awslabs
 * https://github.com/awslabs/serverless-application-model/tree/master/examples/apps
@@ -79,3 +78,17 @@
 * 
 * 
 
+
+
+# Alexa Lambda inside VPC
+* https://medium.com/@contact_44108/create-your-own-alexa-news-reader-skill-using-rss-feeds-amazon-echo-8db36efb1e18
+* https://howtodoinjava.com/aws/
+* 
+* 
+* 
+* 
+
+
+* https://developer.amazon.com/docs/custom-skills/security-testing-for-an-alexa-skill.html#21-skills-hosted-as-lambda-functions
+* https://blog.papertrailapp.com/how-to-log-amazon-alexa-apps-and-improve-user-experience/
+* http://docs.bespoken.io/en/latest/tutorials/tutorial_lambda_deploy/

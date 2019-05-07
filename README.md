@@ -1,5 +1,4 @@
 # pbasu-Alexa-Tutorials
-
 * https://developer.amazon.com/docs/custom-skills/configure-permissions-for-customer-information-in-your-skill.html
 * https://developer.amazon.com/docs/account-linking/understand-account-linking.html
 * https://developer.amazon.com/blogs/alexa/post/Tx3CX1ETRZZ2NPC/alexa-account-linking-5-steps-to-seamlessly-link-your-alexa-skill-with-login-with-amazon
@@ -17,12 +16,8 @@
 * 
 * 
 * 
-* 
-* 
-* 
-* 
-* 
-* 
+
+
 
 # Account Linking
 * https://developer.amazon.com/docs/account-linking/understand-account-linking.html
@@ -49,12 +44,7 @@
 * 
 * 
 * 
-* 
-* 
-* 
-* 
-* 
-* 
+
 
 
 # Alexa Reminder
@@ -73,6 +63,18 @@
 * 
 * 
 * 
+* 
+
+
+
+# Alexa Samples
+* https://github.com/awslabs
+* https://github.com/awslabs/serverless-application-model/tree/master/examples/apps
+* https://developer.amazon.com/docs/ask-overviews/alexa-skills-kit-glossary.html
+* https://medium.com/@MyanaSmlia/deploy-sample-app-by-alexa-skills-kit-ask-4e08e8efa681
+* https://medium.com/iotforall/build-your-first-custom-alexa-skill-in-10-minutes-2d27485727ed
+* https://chatbotsmagazine.com/how-to-develop-an-alexa-skill-in-under-10-minutes-8f288e26ba29
+* https://hackernoon.com/my-first-alexa-custom-skill-6a198d385c84
 * 
 * 
 * 

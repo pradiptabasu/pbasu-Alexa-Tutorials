@@ -92,3 +92,15 @@
 * https://developer.amazon.com/docs/custom-skills/security-testing-for-an-alexa-skill.html#21-skills-hosted-as-lambda-functions
 * https://blog.papertrailapp.com/how-to-log-amazon-alexa-apps-and-improve-user-experience/
 * http://docs.bespoken.io/en/latest/tutorials/tutorial_lambda_deploy/
+
+
+
+# Lex Lambda Alexa
+* https://stackoverflow.com/questions/55213346/amazon-lex-integration-into-aws-lambda
+* http://www.davidgyoungtech.com/2018/04/23/building-voice-bots-with-amazon-alexa
+* https://medium.com/datadriveninvestor/build-chatbot-using-amazon-lex-ed3db80b27d0
+* https://www.raizlabs.com/dev/2017/01/build-ai-assistant-api-ai-amazon-lambda/
+* 
+* 
+* 
+* 

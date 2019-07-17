@@ -104,3 +104,18 @@
 * 
 * 
 * 
+
+
+# Alexa Simulator
+* https://echosim.io/welcome
+* https://reverb.ai/
+* https://www.alexa.com/
+* https://www.windowscentral.com/using-amazon-echo-windows-10
+* https://www.theverge.com/2016/4/6/11371814/amazon-tap-review-alexa-echo-bluetooth-speaker
+* https://www.danielikim.com/new-page
+* https://www.infoq.com/news/2017/12/alexa-skills-simulator/
+* https://www.rockedscience.net/articles/testing-alexa-skills-without-a-physical-device/
+* 
+* 
+* 
+* 

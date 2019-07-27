@@ -119,3 +119,26 @@
 * 
 * 
 * 
+
+
+# Using Alexa Voice Skills (AVS) Device SDK
+* https://www.youtube.com/watch?v=F5DixCPJYo8
+
+
+# Voice Control your website navigation 
+* https://www.greenwoodcampbell.com/
+* https://www.youtube.com/watch?v=vbEU4mE_rkc
+* https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
+* 
+
+# Greenwood Campbell Technical Overview:
+https://medium.com/@MarekMis/ok-google-scroll-down-how-we-integrated-google-assistant-vui-with-a-website-eb5dfe6ac7b
+
+# Google Assistant Overview:
+https://blog.prototypr.io/using-voice-to-control-a-website-with-google-home-part-1-3-d2355327f250
+
+# Amazon Alexa Overview:
+https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-echo-alexa-part-1-6-a35edbfef405
+* 
+* 
+* 

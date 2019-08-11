@@ -142,3 +142,12 @@ https://blog.prototypr.io/using-voice-commands-to-control-a-website-with-amazon-
 * 
 * 
 * 
+
+
+# Alexa Blueprints
+https://blueprints.amazon.com/home
+https://www.cnbc.com/2018/04/19/how-to-create-custom-responses-for-alexa-on-amazon-echo.html
+
+
+# The complete list of Alexa commands so far
+https://www.cnet.com/how-to/amazon-echo-the-complete-list-of-alexa-commands/

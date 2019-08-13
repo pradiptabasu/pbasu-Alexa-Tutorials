@@ -151,3 +151,16 @@ https://www.cnbc.com/2018/04/19/how-to-create-custom-responses-for-alexa-on-amaz
 
 # The complete list of Alexa commands so far
 https://www.cnet.com/how-to/amazon-echo-the-complete-list-of-alexa-commands/
+
+
+# Alexa AVS in Laptop Mic & Browser & Raspberry Pi
+https://developer.amazon.com/alexa-voice-service/sdk
+https://github.com/topics/alexa-voice-service
+https://github.com/topics/alexa-avs-sample-app
+https://github.com/Superdrac/alexa-avs-sample-app
+https://towardsdatascience.com/piexa-raspberry-pi-amazon-alexa-a-step-by-step-guide-to-build-your-own-hands-free-alexa-with-285c4bc73705
+https://stackoverflow.com/questions/35448945/how-to-use-amazon-skill-set-without-amazon-echo-device
+https://developer.amazon.com/docs/alexa-voice-service/launch-sample-app.html
+https://libraries.io/github/alexa/alexa-avs-sample-app
+https://gitlab.com/alexahome/alexa/alexa-avs-sample-app
+https://www.instructables.com/id/Build-a-Raspberry-Pi-Powered-Amazon-Echo/
